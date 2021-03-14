@@ -1,0 +1,38 @@
+<annotation>
+	<folder>sve</folder>
+	<filename>bez_maske (247).jpg</filename>
+	<path>C:\Users\Admin\Desktop\DiplomskiProjekt\slike\sve\bez_maske (247).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>299</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with-mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>24</ymin>
+			<xmax>111</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>with-mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>12</ymin>
+			<xmax>291</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

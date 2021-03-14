@@ -1,0 +1,38 @@
+<annotation>
+	<folder>slike</folder>
+	<filename>dodatne (133).jpg</filename>
+	<path>C:\Users\Admin\Desktop\slike\dodatne (133).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>261</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no-mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>18</ymin>
+			<xmax>92</xmax>
+			<ymax>56</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>no-mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>24</ymin>
+			<xmax>133</xmax>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

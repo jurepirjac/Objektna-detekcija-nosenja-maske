@@ -1,0 +1,1 @@
+Potrebno dodati Labelimg u trenutnu mapu. LabelImg je moguće pronaći na: https://github.com/tzutalin/labelImg

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>nove</folder>
+	<filename>slike (160).jpg</filename>
+	<path>C:\Users\Admin\Desktop\nove\slike (160).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>292</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>with-mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>3</ymin>
+			<xmax>207</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>
